@@ -1,0 +1,7 @@
+{
+  "name": "INFO6215 Ollama Labs",
+  "image": "mcr.microsoft.com/devcontainers/python:3.11",
+  "hostRequirements": { "cpus": 4 },
+  "postCreateCommand": "sudo apt-get update && sudo apt-get install -y zstd && curl -fsSL https://ollama.com/install.sh | sh && pip install streamlit requests chromadb",
+  "forwardPorts": [8501, 8502]
+}
