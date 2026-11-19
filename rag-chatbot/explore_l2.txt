@@ -1,0 +1,60 @@
+
+============================================================
+QUERY: What is the PTO carryover limit?
+============================================================
+
+  Result 1 | Source: hr_policy.txt | Distance: 309.1736
+  MERIDIAN ANALYTICS GROUP — EMPLOYEE HANDBOOK Section 4: Time Off and Leave Policies Last Revised: January 2025 4.1 Annual Leave Full-time employees accrue 15 days (120 hours) of paid time off (PTO) per calendar year. Employees in their first year accrue PTO at a rate of 1.25 days per month beginning...
+
+  Result 2 | Source: hr_policy.txt | Distance: 332.1997
+  and the final week of each fiscal quarter), PTO requests are subject to additional manager discretion and may be denied due to business need. Blackout periods are published on the HR intranet by September 1st each year. 4.4 Sick Leave Employees receive 10 days (80 hours) of sick leave per year, cred...
+
+============================================================
+QUERY: How do I submit an expense report?
+============================================================
+
+  Result 1 | Source: expense_policy.txt | Distance: 370.1346
+  MERIDIAN ANALYTICS GROUP — EXPENSE REIMBURSEMENT POLICY Section 7: Business Expenses Last Revised: March 2025 7.1 General Policy Meridian Analytics Group reimburses employees for reasonable, documented business expenses incurred while performing work duties. All expenses require an original itemized...
+
+  Result 2 | Source: expense_policy.txt | Distance: 373.3696
+  capped at $60 per day for domestic travel and $90 per day for international travel. These per-diem limits cover all meals (breakfast, lunch, dinner) and non-alcoholic beverages for the travel day. Receipts are required for any individual meal over $25. Business meals with clients, prospects, or exte...
+
+============================================================
+QUERY: Can I use ChatGPT for work?
+============================================================
+
+  Result 1 | Source: data_governance.txt | Distance: 356.1576
+  active merger and acquisition activity, board-level financial data, executive compensation, unreleased product roadmaps, regulatory filings prior to submission, and any data subject to a legal hold. Access to Tier 4 data is limited to named individuals approved by a VP or above and the Chief Data Of...
+
+  Result 2 | Source: it_policy.txt | Distance: 360.4727
+  personal Google or Microsoft account to store company data, for example, is a Shadow IT violation. 9.6 Remote Work and VPN Employees working remotely must connect to the Meridian VPN for any work that involves accessing Tier 3 or Tier 4 data, internal systems, or client environments. Tier 1 and Tier...
+
+============================================================
+QUERY: Are there restrictions on external AI tools?
+============================================================
+
+  Result 1 | Source: data_governance.txt | Distance: 225.4585
+  active merger and acquisition activity, board-level financial data, executive compensation, unreleased product roadmaps, regulatory filings prior to submission, and any data subject to a legal hold. Access to Tier 4 data is limited to named individuals approved by a VP or above and the Chief Data Of...
+
+  Result 2 | Source: it_policy.txt | Distance: 366.2769
+  180 days. Multi-factor authentication (MFA) is required for all systems accessible outside the corporate network, including email, VPN, cloud storage, and any SaaS platform integrated with Meridian SSO. Employees must enroll in MFA within their first 5 business days. Requests for MFA exemptions will...
+
+============================================================
+QUERY: What happens if I find a data breach?
+============================================================
+
+  Result 1 | Source: data_governance.txt | Distance: 265.2440
+  creation or last active use, whichever is later. Client data is subject to the retention terms specified in the applicable client contract, which supersedes this default policy. Tier 4 data retention periods are defined individually by Legal and the Chief Data Officer based on regulatory requirement...
+
+  Result 2 | Source: it_policy.txt | Distance: 332.8750
+  personal Google or Microsoft account to store company data, for example, is a Shadow IT violation. 9.6 Remote Work and VPN Employees working remotely must connect to the Meridian VPN for any work that involves accessing Tier 3 or Tier 4 data, internal systems, or client environments. Tier 1 and Tier...
+
+============================================================
+QUERY: How far in advance do I need to request vacation?
+============================================================
+
+  Result 1 | Source: hr_policy.txt | Distance: 304.8977
+  and the final week of each fiscal quarter), PTO requests are subject to additional manager discretion and may be denied due to business need. Blackout periods are published on the HR intranet by September 1st each year. 4.4 Sick Leave Employees receive 10 days (80 hours) of sick leave per year, cred...
+
+  Result 2 | Source: expense_policy.txt | Distance: 319.0626
+  capped at $60 per day for domestic travel and $90 per day for international travel. These per-diem limits cover all meals (breakfast, lunch, dinner) and non-alcoholic beverages for the travel day. Receipts are required for any individual meal over $25. Business meals with clients, prospects, or exte...
